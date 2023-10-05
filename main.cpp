@@ -2,7 +2,10 @@
 using namespace std;
 int Fib(int n)
 {
-    return 1;
+    if(1==n)
+        return 1;
+    else
+        return Fib(n-1)+Fib(n-2);
 }
 int main()
 {
