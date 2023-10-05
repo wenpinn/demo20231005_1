@@ -1,6 +1,6 @@
 /***    
  *   hw 20231005
- *   @author: 1125033
+ *   @author: 1122033
  *   @name: 楊凌權
 ***/
 #include <iostream>
