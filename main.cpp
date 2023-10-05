@@ -1,8 +1,8 @@
 /***    
  *   hw 20231005
- *   @author: 1122099
- *   @name: Wen-Pinn Fang
-***/
+ *   @author: 1122007
+ *   @name:羅侑新
+***/ 
 #include <iostream>
 using namespace std;
 int Fib(int n)
